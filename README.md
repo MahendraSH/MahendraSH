@@ -46,19 +46,29 @@ I am a **Full-Stack Developer** with nearly 2 years of professional experience b
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🗄️ Databases & ORMs</h4>
+      <h4>🏢 Enterprise Platforms</h4>
+      <a href="#"><img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/ServiceNow_SDK-81B5A3?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow SDK" /></a>
+      <br/>
+      <sub><b>Capabilities:</b> GlideRecord • Business Rules • Client Scripts • Script Includes • Workflows</sub>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🗄️ Databases & ORM</h4>
       <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
       <a href="#"><img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
       <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Prisma-39827F?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
     </td>
-    <td valign="top" width="50%">
-      <h4>⚙️ Tools, DevOps & Platforms</h4>
-      <a href="#"><img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Camunda-FF3D00?style=for-the-badge&logo=camunda&logoColor=white" alt="Camunda" /></a>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>⚙️ Tools & DevOps</h4>
+      <a href="#"><img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SQS" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Camunda_BPM-FF3D00?style=for-the-badge&logo=camunda&logoColor=white" alt="Camunda BPM" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
       <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful APIs" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=F000B8" alt="JWT" /></a>
     </td>
   </tr>
 </table>
