@@ -64,15 +64,6 @@ I am a **Full-Stack Developer** with nearly 2 years of professional experience b
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahendraSH&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraSH&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 💼 Work Experience
 
 #### 🏢 **Infosys** — *Specialist Programmer*
