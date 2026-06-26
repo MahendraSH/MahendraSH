@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://mahendrash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mahendrash.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mahendrash.vercel.app/miscellaneous"><img src="https://img.shields.io/badge/Tools-Miscellaneous-blueviolet?style=for-the-badge&logo=webassembly&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mahendra-s-h-14a74721a"><img src="https://img.shields.io/badge/LinkedIn-Mahendra%20S%20H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahendrashongunti@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MahendraSH"><img src="https://img.shields.io/badge/GitHub-MahendraSH-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -91,9 +92,27 @@ I am a **Full-Stack Developer** with nearly 2 years of professional experience b
 | **[SaaS Form Builder](https://github.com/MahendraSH)** | Full-stack dynamic drag-and-drop form builder with an embeddable script integration package for external websites. | `Next.js` `Node.js` `Express` `PostgreSQL` |
 | **[Shadcn UI Table Generator](https://github.com/MahendraSH)** | Open-source developer tool that scaffolds fully-typed TanStack Table v8 columns and Shadcn UI components from JSON/OpenAPI specs. | `Astro` `React` `TypeScript` `TanStack Table` |
 
+> 🛠️ **Explore More**: Visit my **[Miscellaneous Works](https://mahendrash.vercel.app/miscellaneous)** page for a curated collection of client-side developer utilities, including:
+> - **logoname**: Constraint-based vector brand identity generator.
+> - **Json-a**: Fully local high-performance JSON workspace (jq sandbox, compiler, schema visualizer).
+> - **MD-a**: Private, local-first Markdown studio & diagramming canvas.
+> - **pg-spring-db**: Visual PostgreSQL ERD designer and Spring Boot CRUD scaffold generator.
+
 ---
 
 ### 🎓 Education
 
 🎓 **B.Tech in Computer Science & Engineering**  
 *The National Institute of Engineering (NIE), Mysore* | **Graduated: May 2024** | **Grade: 7.3 CGPA**
+
+---
+
+### 📬 Let's Connect!
+
+<p align="left">
+  <a href="https://mahendrash.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mahendrash.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mahendrash.vercel.app/miscellaneous"><img src="https://img.shields.io/badge/Tools-Miscellaneous-blueviolet?style=for-the-badge&logo=webassembly&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahendra-s-h-14a74721a"><img src="https://img.shields.io/badge/LinkedIn-Mahendra%20S%20H-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahendrashongunti@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MahendraSH"><img src="https://img.shields.io/badge/GitHub-MahendraSH-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
